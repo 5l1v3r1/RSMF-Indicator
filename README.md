@@ -16,9 +16,9 @@ The automated TradingTiger bots work 24/7 so you don't have to.
 Little to no trading experience or programming knowledge required.  
 You can run multiple trading pairs on the same exchange and check for Take Profit and Stop Loss.
 ### Contributing
-#### !!!!PLEASE MAKE SURE TRADING LEVERAGE IS HIGH RISK!!!!!!
-![alt text](https://raw.githubusercontent.com/Trading-Tiger/RSMFI-Indicator/main/preview.png)
-[![Foo](https://trading-tigers.com/img/joindiscord.png)](https://discord.gg/xAGZHAr)
+#### !!!!PLEASE MAKE SURE TRADING LEVERAGE IS HIGH RISK!!!!!!  
+![alt text](https://raw.githubusercontent.com/Trading-Tiger/RSMFI-Indicator/main/preview.png)  
+[![Foo](https://trading-tigers.com/img/joindiscord.png)](https://discord.gg/xAGZHAr)  
 [![TELEGRAM](https://trading-tigers.com/img/telegram-ken.png)](https://t.me/TradingTigers_Orginal)
 
 ## Authentication  
