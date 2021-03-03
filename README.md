@@ -10,15 +10,14 @@ You have the power to effortlessly monitor more currencies at once.
 ## Your benefits of our software.
 #### READY FOR ALL!
 Suitable for experienced, advanced and novice traders, perfect for learning.  
-
 #### EARN WHILE YOU SLEEP!
 The automated TradingTiger bots work 24/7 so you don't have to.  
 #### QUICK AND EASY TO SET UP!
 Little to no trading experience or programming knowledge required.  
 You can run multiple trading pairs on the same exchange and check for Take Profit and Stop Loss.
 ### Contributing
-![alt text](https://raw.githubusercontent.com/Trading-Tiger/RSMFI-Indicator/main/preview.png)
 #### !!!!PLEASE MAKE SURE TRADING LEVERAGE IS HIGH RISK!!!!!!
+![alt text](https://raw.githubusercontent.com/Trading-Tiger/RSMFI-Indicator/main/preview.png)
 [![Foo](https://trading-tigers.com/img/joindiscord.png)](https://discord.gg/xAGZHAr)
 [![TELEGRAM](https://trading-tigers.com/img/telegram-ken.png)](https://t.me/TradingTigers_Orginal)
 
@@ -80,3 +79,4 @@ pm2 delete <APP_Name>
 ```
 
 
+### !!!!PLEASE MAKE SURE TRADING LEVERAGE IS HIGH RISK!!!!!!
