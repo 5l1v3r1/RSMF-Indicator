@@ -29,7 +29,7 @@ If the tokens have a price, the amount will be adjusted (less).
 [![bakeryswap](https://trading-tigers.com/img/bakeryswap.png)](https://www.bakeryswap.org/#/swap?outputCurrency=0x017a6d12ca6e591d684e63791fd2de1e8a550169)
 ## Download  
 [Find a version for your system at Releases](https://github.com/Trading-Tiger/RSMF-Indicator/releases)  
-[Use the TakeProfitStopLoss module to manage your positions!](https://github.com/Trading-Tiger/StopLossTakeProfit-Modul/releases/)  
+[Use the TakeProfitStopLoss module to manage your positions!](https://github.com/Trading-Tiger/StopLossTakeProfit-Modul/#rocket-stoplosstakeprofits-modul-rocket)  
 
 ## Settings
 
