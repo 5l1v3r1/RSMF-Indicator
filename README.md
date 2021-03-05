@@ -1,6 +1,6 @@
 # :rocket: RSMFI Indicator Modul :rocket:
 ![alt text](https://trading-tigers.com/img/ms-icon-310x310.png)
-##### Here comes the Relative Strength Money Flow Indicator, it checks your selected trading pairs in futures for specified conditions and opens a LONG or SHORT position.  
+##### Here comes the Relative Strength Money Flow Indicator, it checks your selected trading pairs in binance futures for specified conditions and opens a LONG or SHORT position.  
 RSMF Indicator is able to detect and execute an opportunity on different trading pairs at high speed.  
 This is not comparable to the human trader who has to enter an order manually, at the same time, this has no emotions and executes stop loss directly.  
 It eliminates the physical aspect of being glued to your screen tracking your currencies.  
