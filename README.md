@@ -18,7 +18,7 @@ You can run multiple trading pairs on the same exchange and check for Take Profi
 ### Contributing
 #### !!!!PLEASE MAKE SURE TRADING LEVERAGE IS HIGH RISK!!!!!!  
 ![alt text](https://raw.githubusercontent.com/Trading-Tiger/RSMFI-Indicator/main/preview.png)  
-[![Foo](https://trading-tigers.com/img/joindiscord.png)](https://discord.gg/xAGZHAr)  
+[![Discord Shield](https://discordapp.com/api/guilds/766340441075089418/widget.png?style=banner2)](https://discord.gg/xAGZHAr)  
 [![TELEGRAM](https://trading-tigers.com/img/telegram-ken.png)](https://t.me/TradingTigers_Orginal)
 
 ## Authentication  
