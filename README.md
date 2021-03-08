@@ -6,7 +6,7 @@ This is not comparable to the human trader who has to enter an order manually, a
 It eliminates the physical aspect of being glued to your screen tracking your currencies.  
 You have the power to effortlessly monitor more currencies at once.
 ### [CHECK MORE MODULES AND INDICATORS](https://Trading-Tigers.com)
-### [TradingTigers Token @BSC](https://bscscan.com/token/0x017a6d12ca6e591d684e63791fd2de1e8a550169)
+### [TradingTigers Token @BSC](https://bscscan.com/token/0x017a6d12ca6e591d684e63791fd2de1e8a550169)  
 ## Your benefits of our software.
 #### READY FOR ALL!
 Suitable for experienced, advanced and novice traders, perfect for learning.  
@@ -15,9 +15,11 @@ The automated TradingTiger bots work 24/7 so you don't have to.
 #### QUICK AND EASY TO SET UP!
 Little to no trading experience or programming knowledge required.  
 You can run multiple trading pairs on the same exchange and check for Take Profit and Stop Loss.
-### Contributing
-#### !!!!PLEASE MAKE SURE TRADING LEVERAGE IS HIGH RISK!!!!!!  
-![alt text](https://raw.githubusercontent.com/Trading-Tiger/RSMFI-Indicator/main/preview.png)  
+#### !!!!PLEASE MAKE SURE TRADING LEVERAGE IS HIGH RISK!!!!!! 
+
+## Preview
+![alt text](https://raw.githubusercontent.com/Trading-Tiger/RSMFI-Indicator/main/preview.png) 
+## Enter our Community
 [![Discord Shield](https://discordapp.com/api/guilds/766340441075089418/widget.png?style=banner2)](https://discord.gg/xAGZHAr)  
 [![TELEGRAM](https://trading-tigers.com/img/telegram-ken.png)](https://t.me/TradingTigers_Orginal)
 
@@ -32,7 +34,6 @@ If the tokens have a price, the amount will be adjusted (less).
 [Use the TakeProfitStopLoss module to manage your positions!](https://github.com/Trading-Tiger/StopLossTakeProfit-Modul/#rocket-stoplosstakeprofits-modul-rocket)  
 
 ## Settings
-
 #### Api Keys  
 Never give your API Key authorization to withdrawal, make sure that you enable trading and futures. 
 #### coins
