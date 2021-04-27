@@ -1,5 +1,5 @@
 # :rocket: RSMFI Indicator Modul :rocket:
-![alt text](https://trading-tigers.com/img/ms-icon-310x310.png)
+![alt text](https://trading-tigers.com/old_website/img/ms-icon-310x310.png)
 ##### Here comes the Relative Strength Money Flow Indicator, it checks your selected trading pairs in binance futures for specified conditions and opens a LONG or SHORT position.  
 RSMF Indicator is able to detect and execute an opportunity on different trading pairs at high speed.  
 This is not comparable to the human trader who has to enter an order manually, at the same time, this has no emotions and executes stop loss directly.  
@@ -21,14 +21,14 @@ You can run multiple trading pairs on the same exchange and check for Take Profi
 ![alt text](https://raw.githubusercontent.com/Trading-Tiger/RSMFI-Indicator/main/preview.png) 
 ## Enter our Community
 [![Discord Shield](https://discordapp.com/api/guilds/766340441075089418/widget.png?style=banner2)](https://discord.gg/xAGZHAr)  
-[![TELEGRAM](https://trading-tigers.com/img/telegram-ken.png)](https://t.me/TradingTigers_Orginal)
+[![TELEGRAM](https://trading-tigers.com/old_website/img/telegram-ken.png)](https://t.me/TradingTigers_Orginal)
 
 ## Authentication  
 Create a Binance-Smart-Chain address from which you have the private key.  
 [Then buy Trading Tiger Tokens (TIGS) at Bakeryswap](https://www.bakeryswap.org/#/swap?outputCurrency=0x017a6d12ca6e591d684e63791fd2de1e8a550169).  
 You need Max 150 TIGS to start our tools, this will vary!  
 If the tokens have a price, the amount will be adjusted (less).  
-[![bakeryswap](https://trading-tigers.com/img/bakeryswap.png)](https://www.bakeryswap.org/#/swap?outputCurrency=0x017a6d12ca6e591d684e63791fd2de1e8a550169)
+[![bakeryswap](https://trading-tigers.com/old_website/img/bakeryswap.png)](https://www.bakeryswap.org/#/swap?outputCurrency=0x017a6d12ca6e591d684e63791fd2de1e8a550169)
 ## Download  
 [Find a version for your system at Releases](https://github.com/Trading-Tiger/RSMF-Indicator/releases)  
 [Use the TakeProfitStopLoss module to manage your positions!](https://github.com/Trading-Tiger/StopLossTakeProfit-Modul/#rocket-stoplosstakeprofits-modul-rocket)  
