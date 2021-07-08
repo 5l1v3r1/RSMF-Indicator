@@ -1,0 +1,28 @@
+{
+    "exchange": "binance",
+    "market": "future",
+    "api-key" : "<INSERT_YOUR_KEY>",
+    "api-secret" : "<INSERT_YOUR_SECRET_KEY>",
+
+    "CANDLE_TIME" : "5m",
+    "CHECK_TIME_sec" : 0.7,
+    "coins" : ["EOSUSDT", "SUSHIUSDT", "CVCUSDT", "BALUSDT", "KNCUSDT", "SRMUSDT", "ENJUSDT", "ZRXUSDT", "QTUMUSDT", "ZENUSDT", 
+        "ATOMUSDT", "IOTAUSDT", "WAVESUSDT", "ADAUSDT", "NEARUSDT", "BCHUSDT", "XTZUSDT", "BNBUSDT", "IOSTUSDT", "HNTUSDT",
+        "ETCUSDT", "XMRUSDT", "YFIUSDT", "ZECUSDT", "ETHUSDT", "BZRXUSDT", "ALPHAUSDT", "AAVEUSDT", "BATUSDT", "ALGOUSDT", 
+        "DOGEUSDT", "TRXUSDT", "RLCUSDT", "STORJUSDT", "SNXUSDT", "LRCUSDT", "AVAXUSDT", "XLMUSDT", "MATICUSDT", "1INCHUSDT",
+        "NEOUSDT", "MKRUSDT", "DASHUSDT", "THETAUSDT", "KAVAUSDT", "UNIUSDT", "RUNEUSDT", "CTKUSDT", "LINKUSDT", "FILUSDT",
+        "COMPUSDT", "RSRUSDT", "SOLUSDT", "BTCUSDT", "SKLUSDT", "OMGUSDT", "ICXUSDT", "BLZUSDT", "RENUSDT", "FTMUSDT", "TOMOUSDT", "YFIIUSDT",
+        "LTCUSDT", "BANDUSDT", "XRPUSDT", "SXPUSDT", "CRVUSDT", "BELUSDT", "DOTUSDT", "EGLDUSDT", "KSMUSDT", "ONTUSDT", "VETUSDT",
+        "TRBUSDT", "ZILUSDT", "AXSUSDT", "OCEANUSDT", "GRTUSDT", "FLMUSDT"],
+
+    "BalancePercent_per_Order" : 1,
+    "Max_Percent_in_Coin" : 3,
+    "leverage" : 20,
+
+    "PERIOD" : 25,
+    "RSMFI_OVERBOUGHT" : 79,
+    "RSMFI_OVERSOLD" : 21,
+    
+    "discord" : true,
+    "discord_webhook": "https://discord.com/api/webhooks/...."
+}
