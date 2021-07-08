@@ -1,12 +1,12 @@
 # :rocket: RSMFI Indicator Modul :rocket:
-![alt text](https://trading-tigers.com/old_website/img/ms-icon-310x310.png)
+![alt text](https://trading-tigers.com/assets/img/TradingTigers.png)
 ##### Here comes the Relative Strength Money Flow Indicator, it checks your selected trading pairs in binance futures for specified conditions and opens a LONG or SHORT position.  
 RSMF Indicator is able to detect and execute an opportunity on different trading pairs at high speed.  
 This is not comparable to the human trader who has to enter an order manually, at the same time, this has no emotions and executes stop loss directly.  
 It eliminates the physical aspect of being glued to your screen tracking your currencies.  
 You have the power to effortlessly monitor more currencies at once.
 ### [CHECK MORE MODULES AND INDICATORS](https://Trading-Tigers.com)
-### [TradingTigers Token @BSC](https://bscscan.com/token/0x017a6d12ca6e591d684e63791fd2de1e8a550169)  
+### [TradingTigers Token @BSC](https://bscscan.com/token/0x34faa80fec0233e045ed4737cc152a71e490e2e3)  
 ## Your benefits of our software.
 #### READY FOR ALL!
 Suitable for experienced, advanced and novice traders, perfect for learning.  
@@ -19,28 +19,16 @@ You can run multiple trading pairs on the same exchange and check for Take Profi
 
 ## Preview
 ![alt text](https://raw.githubusercontent.com/Trading-Tiger/RSMFI-Indicator/main/preview.png) 
-## Enter our Community
-[![Discord Shield](https://discordapp.com/api/guilds/766340441075089418/widget.png?style=banner2)](https://discord.gg/xAGZHAr)  
+## Join our Community
 [![TELEGRAM](https://trading-tigers.com/old_website/img/telegram-ken.png)](https://t.me/TradingTigers_Orginal)
 
-## Authentication  
-Create a Binance-Smart-Chain address from which you have the private key.  
-[Then buy Trading Tiger Tokens (TIGS) at Bakeryswap](https://www.bakeryswap.org/#/swap?outputCurrency=0x017a6d12ca6e591d684e63791fd2de1e8a550169).  
-You need Max 150 TIGS to start our tools, this will vary!  
-If the tokens have a price, the amount will be adjusted (less).  
-[![bakeryswap](https://trading-tigers.com/old_website/img/bakeryswap.png)](https://www.bakeryswap.org/#/swap?outputCurrency=0x017a6d12ca6e591d684e63791fd2de1e8a550169)
-## Download  
-[Find a version for your system at Releases](https://github.com/Trading-Tiger/RSMF-Indicator/releases)  
-[Use the TakeProfitStopLoss module to manage your positions!](https://github.com/Trading-Tiger/StopLossTakeProfit-Modul/#rocket-stoplosstakeprofits-modul-rocket)  
 
 ## Settings
 #### Api Keys  
 Never give your API Key authorization to withdrawal, make sure that you enable trading and futures. 
 #### coins
 "coins" : ["BTCUSDT", "XRPUSDT" , "ADAUSDT" ], -> Pairs to Trade on Binance Future.  
-You can find a complete COIN list [HERE](https://github.com/Trading-Tiger/Supported_Trading_Pairs/blob/main/Binance_Future_Pairs.json).
-#### bsc_Secret-Key  
-Binance-Smart-Chain Private-Key with Trading Tiger Tokens (TIGS).[BUY TIGS Bakeryswap](https://www.bakeryswap.org/#/swap?outputCurrency=0x017a6d12ca6e591d684e63791fd2de1e8a550169) 
+You can find a complete COIN list [HERE](https://github.com/Trading-Tiger/Supported_Trading_Pairs/blob/main/Binance_Future_Pairs.json).  
 #### Candles  
 "CANDLE_TIME" : "5m", -> The time frame of the candles with which the indicator calculates.  
 "PERIOD" : 25, -> The number of last CANDLES that are used to calculate. 14-499  
@@ -54,7 +42,7 @@ Binance-Smart-Chain Private-Key with Trading Tiger Tokens (TIGS).[BUY TIGS Baker
 #### Discord  
 You want to receive notifications about achieved stop loss, no problem, activate it and add your Discord webhook URL.  
 "discord" : true,  
-"discord_webhook": "https://discord.com/api/webhooks/7952906218/qOc_NnbAywZecawB0",  
+"discord_webhook": "https://discord.com/api/webhooks/795296218/qOc_NnwZecawB0",  
 #### Interval  
   
 ## Optional
