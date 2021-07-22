@@ -7,4 +7,4 @@ cd ta-lib/
 sudo make
 sudo make install
 cd .. && rm -rf ta-lib
-python3 -m pip install -r ../requirements.txt
+python3 -m pip install -r requirements.txt
