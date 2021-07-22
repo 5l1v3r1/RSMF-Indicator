@@ -23,14 +23,16 @@ install python3 moduls:
 ```python
 python3 -m pip install -r requirements.txt
 ```
-Install Ta-Lib:  
-linux:
+Install Ubuntu:
 ```bash
 sudo chmod +x setup_Talib.sh
 sudo ./setup_Talib.sh
-```
-
-
+```  
+  
+Run:
+```bash
+python3 RSMFIndicator.py
+```  
 
 ## Preview
 ![alt text](https://raw.githubusercontent.com/Trading-Tiger/RSMFI-Indicator/main/preview.png) 

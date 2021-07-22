@@ -1,3 +1,4 @@
 ccxt
 numpy
 discord-webhook
+ta-lib
