@@ -18,12 +18,12 @@ You can run multiple trading pairs on the same exchange and check for Take Profi
 #### !!!!PLEASE MAKE SURE TRADING LEVERAGE IS HIGH RISK!!!!!! 
 
 # Setup
-Install [Python3](https://www.python.org/) with pip
+Install [Python3](https://www.python.org/) with pip  
 install python3 moduls:
 ```python
 python3 -m pip install -r requirements.txt
 ```
-Install Ta-Lib:
+Install Ta-Lib:  
 linux:
 ```bash
 sudo chmod +x setup_Talib.sh
