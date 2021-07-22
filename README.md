@@ -34,9 +34,6 @@ sudo ./setup_Talib.sh
 
 ## Preview
 ![alt text](https://raw.githubusercontent.com/Trading-Tiger/RSMFI-Indicator/main/preview.png) 
-## Join our Community
-[![TELEGRAM](https://trading-tigers.com/old_website/img/telegram-ken.png)](https://t.me/TradingTigers_Orginal)
-
 
 ## Settings
 #### Api Keys  
