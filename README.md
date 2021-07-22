@@ -17,6 +17,21 @@ Little to no trading experience or programming knowledge required.
 You can run multiple trading pairs on the same exchange and check for Take Profit and Stop Loss.
 #### !!!!PLEASE MAKE SURE TRADING LEVERAGE IS HIGH RISK!!!!!! 
 
+# Setup
+Install [Python3](https://www.python.org/) with pip
+install python3 moduls:
+```python
+python3 -m pip install -r requirements.txt
+```
+Install Ta-Lib:
+linux:
+```bash
+sudo chmod +x setup_Talib.sh
+sudo ./setup_Talib.sh
+```
+
+
+
 ## Preview
 ![alt text](https://raw.githubusercontent.com/Trading-Tiger/RSMFI-Indicator/main/preview.png) 
 ## Join our Community

@@ -185,7 +185,7 @@ class RSI_TRADER:
         try:
             webhook = DiscordWebhook(url=url)
             embed = DiscordEmbed(title=('RSMFI Indicator'), description='Signal received, Buy Position:', color=242424)
-            #embed.set_image(height=340,width=340 ,url='https://img.freepik.com/vektoren-kostenlos/tiger-head-angry-gesicht-mit-horn-und-drei-augen-detail-mit-grunge-effect-bearbeitbaren-schichten_67811-271.jpg?size=338&ext=jpg')
+            embed.set_image(height=133,width=600 ,url='https://trading-tigers.com/assets/img/TradingTigers-LogoTP600px.png')
             embed.set_timestamp()
             embed.add_embed_field(name='Symbol:' , value=(str(self.Symbol)))
             embed.add_embed_field(name='LONG/SHORT:', value=(str(self.orderside)))
